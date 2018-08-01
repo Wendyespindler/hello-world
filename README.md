@@ -1,2 +1,5 @@
 # hello-world
-Practice page
+
+Hi there! 
+
+My name is Wendy, and I'm 
